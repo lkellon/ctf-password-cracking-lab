@@ -62,3 +62,16 @@ The full presentation for this project is included in this repository.
 ## Author
 Latasha Kellon  
 Cybersecurity Technology Student at UMGC
+
+---
+
+## Lab Screenshots
+
+### Virtual Machine Environment
+![VirtualBox Screenshot](screenshots/Screenshot%202026-04-25%20004840.png)
+
+### Password Hash Extraction
+![grep Output](screenshots/Screenshot%202026-04-25%20004913.png)
+
+### John the Ripper Results
+![John the Ripper](screenshots/Screenshot%202026-04-25%20010524.png)
